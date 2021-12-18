@@ -5,5 +5,5 @@
 	branch = v4-dev
 [submodule "assets/vendor/Font-Awesome"]
 	path = assets/vendor/Font-Awesome
-	url = ../../smartide/Font-Awesome
+	url = ../../smartide/font-awesome
 	shallow = true

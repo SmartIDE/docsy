@@ -1,9 +1,9 @@
 [submodule "assets/vendor/bootstrap"]
 	path = assets/vendor/bootstrap
-	url = ../../smartide/bootstrap.git
+	url = ../../smartide/bootstrap
 	shallow = true
 	branch = v4-dev
 [submodule "assets/vendor/Font-Awesome"]
 	path = assets/vendor/Font-Awesome
-	url = ../../smartide/Font-Awesome.git
+	url = ../../smartide/Font-Awesome
 	shallow = true
